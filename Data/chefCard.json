@@ -2,7 +2,7 @@
     "chefs": [
       {
         "id": 1,
-        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1954&q=80",
+        "picture": "https://static7.depositphotos.com/1158045/696/i/950/depositphotos_6963275-stock-photo-chef.jpg",
         "name": "Alice Smith",
         "experience_years": 10,
         "num_recipes": 50,
@@ -11,7 +11,7 @@
       },
       {
         "id": 2,
-        "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "picture": "https://st.depositphotos.com/1499736/1254/i/950/depositphotos_12541432-stock-photo-happy-smiling-chef-showing-index.jpg",
         "name": "Bob Johnson",
         "experience_years": 8,
         "num_recipes": 40,
@@ -20,7 +20,7 @@
       },
       {
         "id": 3,
-        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1954&q=80",
+        "picture": "https://st.depositphotos.com/1499736/2971/i/950/depositphotos_29711615-stock-photo-confident-young-cook-posing-in.jpg",
         "name": "Cathy Lee",
         "experience_years": 6,
         "num_recipes": 30,
@@ -29,7 +29,7 @@
       },
       {
         "id": 4,
-        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1954&q=80",
+        "picture": "https://st2.depositphotos.com/1010613/9537/i/950/depositphotos_95378034-stock-photo-portrait-of-happy-male-chef.jpg",
         "name": "David Nguyen",
         "experience_years": 12,
         "num_recipes": 60,
@@ -38,7 +38,7 @@
       },
       {
         "id": 5,
-        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1954&q=80",
+        "picture": "https://static8.depositphotos.com/1019958/1037/i/950/depositphotos_10371556-stock-photo-portrait-male-chef.jpg",
         "name": "David Nguyen",
         "experience_years": 12,
         "num_recipes": 60,
@@ -47,7 +47,7 @@
       },
       {
         "id": 6,
-        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1954&q=80",
+        "picture": "https://static7.depositphotos.com/1001033/681/i/950/depositphotos_6813886-stock-photo-male-chef-welcoming.jpg",
         "name": "David Nguyen",
         "experience_years": 12,
         "num_recipes": 60,
