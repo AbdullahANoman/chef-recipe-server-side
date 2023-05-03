@@ -1,0 +1,58 @@
+{
+    "chefs": [
+      {
+        "id": 1,
+        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1954&q=80",
+        "name": "Alice Smith",
+        "experience_years": 10,
+        "num_recipes": 50,
+        "likes": 10000,
+        "description": "Alice Smith is an experienced chef with over 10 years of experience in the culinary industry. She is known for her unique style of cooking that blends traditional techniques with modern flavors. Alice has created over 50 recipes that have been widely recognized and appreciated by food lovers all over the world. Her signature dish, the Spicy Thai Curry, has won numerous awards and accolades. Alice's passion for food and cooking is evident in the care she takes to select the freshest ingredients and to create dishes that are not only delicious but also visually appealing. In her free time, Alice enjoys experimenting with new ingredients and techniques, and is always on the lookout for the next big culinary trend."
+      },
+      {
+        "id": 2,
+        "picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "name": "Bob Johnson",
+        "experience_years": 8,
+        "num_recipes": 40,
+        "likes": 8000,
+        "description": "Bob Johnson is a talented chef with 8 years of experience in the culinary industry. He is known for his ability to create innovative dishes that blend traditional flavors with modern techniques. Bob has created over 40 recipes that have gained a lot of popularity among food enthusiasts. His signature dish, the Pan-Seared Scallops, is a favorite among seafood lovers. Bob's passion for cooking is evident in the care he takes to source the freshest ingredients and in the attention to detail he puts into each dish. When he is not in the kitchen, Bob enjoys traveling to different parts of the world to explore new flavors and ingredients."
+      },
+      {
+        "id": 3,
+        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1954&q=80",
+        "name": "Cathy Lee",
+        "experience_years": 6,
+        "num_recipes": 30,
+        "likes": 6000,
+        "description": "Cathy Lee is a skilled chef with 6 years of experience in the culinary industry. She is known for her creative approach to cooking and her ability to infuse traditional dishes with new and exciting flavors. Cathy has created over 30 recipes that have received rave reviews from food critics and enthusiasts alike. Her signature dish, the Korean Fried Chicken, is a must-try for anyone visiting her restaurant. Cathy's love for cooking started at a young age and she has honed her skills through years of practice and experimentation. When she is not in the kitchen, Cathy enjoys hiking and exploring the great outdoors."
+      },
+      {
+        "id": 4,
+        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1954&q=80",
+        "name": "David Nguyen",
+        "experience_years": 12,
+        "num_recipes": 60,
+        "likes": 12000,
+        "description": "David Nguyen is an experienced chef with over 12 years of experience in the culinary industry. He is known for his ability to create complex dishes that are both delicious and visually stunning. David has created over 60 recipes that have been praised for their creativity and attention to detail. His signature dish, the Braised Short Ribs, is a favorite among meat lovers. David's passion for cooking began at a young age and he has spent years perfecting his craft. He takes pride in using only the freshest ingredients ."
+      },
+      {
+        "id": 5,
+        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1954&q=80",
+        "name": "David Nguyen",
+        "experience_years": 12,
+        "num_recipes": 60,
+        "likes": 12000,
+        "description": "David Nguyen is an experienced chef with over 12 years of experience in the culinary industry. He is known for his ability to create complex dishes that are both delicious and visually stunning. David has created over 60 recipes that have been praised for their creativity and attention to detail. His signature dish, the Braised Short Ribs, is a favorite among meat lovers. David's passion for cooking began at a young age and he has spent years perfecting his craft. He takes pride in using only the freshest ingredients ."
+      },
+      {
+        "id": 6,
+        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1954&q=80",
+        "name": "David Nguyen",
+        "experience_years": 12,
+        "num_recipes": 60,
+        "likes": 12000,
+        "description": "David Nguyen is an experienced chef with over 12 years of experience in the culinary industry. He is known for his ability to create complex dishes that are both delicious and visually stunning. David has created over 60 recipes that have been praised for their creativity and attention to detail. His signature dish, the Braised Short Ribs, is a favorite among meat lovers. David's passion for cooking began at a young age and he has spent years perfecting his craft. He takes pride in using only the freshest ingredients ."
+      }
+    ]
+}
